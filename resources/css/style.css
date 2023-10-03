@@ -18,7 +18,7 @@ h2 {
   color: white;
 }
 
-#para-one {
+#paragraph {
   font-family: Verdana;
   font-size: 21px;
   color: gray;
@@ -35,3 +35,9 @@ video {
   width: auto;
 }
 
+footer {
+  font-family: Verdana;
+  font-size: 21px;
+  text-align: right;
+  color: gray;
+}
